@@ -1,2 +1,5 @@
-# courserabucket
-This is my testrepo for COURSERA training exercises.
+# testrepo
+
+## Editing the file
+
+It's a markdown file in this repository.
